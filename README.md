@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Edurinty Shashivadhan Reddy</h1>
-<h3 align="center">Computer science Engineer from India.</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codewithsvr/codewithsvr/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/codewithsvr/codewithsvr/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsvr&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsvr" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsvr" alt="codewithsvr" /></a> </p>
+<img src="https://raw.githubusercontent.com/codewithsvr/codewithsvr/snake-output/snake.svg" alt="Snake animation" />
 
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 - 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **eshashi535@gmail.com**
