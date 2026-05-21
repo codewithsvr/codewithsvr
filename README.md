@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Shashi</h1>
+
+<h3 align="center">
+First Year CSE Student | Learning Web Development
+</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&theme=cobalt"/>
+
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=codewithsvr&show_icons=true&theme=tokyonight" height="150"/>
@@ -6,57 +16,44 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&theme=cobalt"/>
+---
+
+### 🌱 Currently Learning
+
+Web Development
+
+### 📫 Reach me
+
+eshashi535@gmail.com
 
 ---
 
-- 🌱 I’m currently learning **Web Development**
-- 📫 Reach me at: **eshashi535@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://www.linkedin.com/" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-height="30"
-width="40"/>
-</a>
+### Connect with me
 
 <a href="https://instagram.com/_shashi_vadhan_reddy_" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-height="30"
-width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
 
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages & Tools
 
-<p align="left">
+<p>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsvr&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsvr&theme=tokyonight"/>
+
 </p>
