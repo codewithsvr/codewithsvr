@@ -1,12 +1,10 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/codewithsvr/codewithsvr/main/stats-output/stats.svg" height="150" alt="stats graph"/>
 
-    <img src="https://raw.githubusercontent.com/codewithsvr/codewithsvr/main/languages-output/languages.svg" height="150" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codewithsvr&show_icons=true&theme=tokyonight" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsvr&layout=compact&theme=tokyonight" height="150"/>
+
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/codewithsvr/codewithsvr/main/snake-output/snake.svg" alt="Snake animation"/>
 
 ###
 
