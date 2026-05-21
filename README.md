@@ -28,9 +28,9 @@ First Year CSE Student | Manipal University Jaipur
 </p>
 
 <p align="center">
-- ☕ Java  
-- 🧠 Data Structures & Algorithms (DSA)  
-- 🌐 Web Development
+  Java •
+  Data Structures & Algorithms (DSA) • 
+  Web Development
 </p>
   
 
