@@ -23,9 +23,7 @@ First Year CSE Student | Manipal University Jaipur
 
 ---
 
-<p align="center">
-  🌱 Currently Learning
-</p>
+<h3 align="center">Currently Learning</h3>
 
 <p align="center">
   Java •
@@ -36,9 +34,7 @@ First Year CSE Student | Manipal University Jaipur
 
 ---
 
-<p align="center">
- Connect with me
-</p>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/edurinty-shashivadhan-reddy-59690a368"  target="_blank"><img 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/> </a> 
@@ -52,6 +48,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ---
 
 📫 Reach me
+
  eshashi535@gmail.com
 
 
