@@ -3,6 +3,7 @@
 <h3 align="center">
 First Year CSE Student | Manipal University Jaipur
 </h3>
+<h4>> "Code. Learn. Build. Repeat."</h4>
 
 <p align="center">
 
@@ -11,18 +12,13 @@ First Year CSE Student | Manipal University Jaipur
 </p>
 
 ---
-### Languages & Tools
+<h3 align="center">Languages & Tools</h3>
 
-<p>
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-
 </p>
 
 ---
