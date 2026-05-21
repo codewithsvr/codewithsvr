@@ -4,17 +4,6 @@
 First Year CSE Student | Manipal University Jaipur
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&theme=cobalt"/>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithsvr&show_icons=true&theme=tokyonight" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsvr&layout=compact&theme=tokyonight" height="150"/>
-
-</div>
 
 ---
 
