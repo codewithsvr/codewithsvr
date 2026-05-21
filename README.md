@@ -3,7 +3,7 @@
 <h3 align="center">
 First Year CSE Student | Manipal University Jaipur
 </h3>
-<h4>> "Code. Learn. Build. Repeat."</h4>
+<h4 align="centre"> "Code. Learn. Build. Repeat."</h4>
 
 <p align="center">
 
