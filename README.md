@@ -11,30 +11,6 @@ First Year CSE Student | Manipal University Jaipur
 </p>
 
 ---
-
-### 🌱 Currently Learning
-
-- ☕ Java  
-- 🧠 Data Structures & Algorithms (DSA)  
-- 🌐 Web Development
-  
-### 📫 Reach me
-
-eshashi535@gmail.com
-
----
-
-### Connect with me
-
-<a href="https://www.linkedin.com/in/edurinty-shashivadhan-reddy-59690a368"  target="_blank"><img 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/> </a> 
-<a href="https://instagram.com/_shashi_vadhan_reddy_" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
-
-
----
-
 ### Languages & Tools
 
 <p>
@@ -49,6 +25,32 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 </p>
 
+---
+
+### 🌱 Currently Learning
+
+- ☕ Java  
+- 🧠 Data Structures & Algorithms (DSA)  
+- 🌐 Web Development
+  
+
+---
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/edurinty-shashivadhan-reddy-59690a368"  target="_blank"><img 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/> </a> 
+<a href="https://instagram.com/_shashi_vadhan_reddy_" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+
+
+---
+
+
+### 📫 Reach me
+
+eshashi535@gmail.com
 ---
 
 
