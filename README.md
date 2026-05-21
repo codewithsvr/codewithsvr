@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 
 <h3 align="center">
-First Year CSE Student | Learning Web Development
+First Year CSE Student | Manipal University Jaipur
 </h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&theme=cobalt"/>
@@ -30,9 +30,14 @@ eshashi535@gmail.com
 
 ### Connect with me
 
+<a href="https://www.linkedin.com/in/edurinty-shashivadhan-reddy-59690a368"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+height="30"
+width="40"/> </a> 
 <a href="https://instagram.com/_shashi_vadhan_reddy_" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
+
 
 ---
 
