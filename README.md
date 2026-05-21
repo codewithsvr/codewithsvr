@@ -25,7 +25,9 @@ First Year CSE Student | Manipal University Jaipur
 
 <p align="center">
   🌱 Currently Learning
+</p>
 
+<p align="center">
 - ☕ Java  
 - 🧠 Data Structures & Algorithms (DSA)  
 - 🌐 Web Development
@@ -36,7 +38,8 @@ First Year CSE Student | Manipal University Jaipur
 
 <p align="center">
  Connect with me
-
+</p>
+<p align="center">
 <a href="https://www.linkedin.com/in/edurinty-shashivadhan-reddy-59690a368"  target="_blank"><img 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/> </a> 
 <a href="https://instagram.com/_shashi_vadhan_reddy_" target="_blank">
