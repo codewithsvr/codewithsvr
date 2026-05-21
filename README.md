@@ -42,6 +42,7 @@ First Year CSE Student | Manipal University Jaipur
 <p align="center">
 <a href="https://www.linkedin.com/in/edurinty-shashivadhan-reddy-59690a368"  target="_blank"><img 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/> </a> 
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/_shashi_vadhan_reddy_" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
@@ -50,10 +51,8 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 ---
 
+📫 Reach me
 
-### 📫 Reach me
-
-eshashi535@gmail.com
----
+<h4 align="center">eshashi535@gmail.com</h4>
 
 
