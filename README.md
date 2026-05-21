@@ -52,7 +52,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ---
 
 📫 Reach me
-
-<h4 align="center">eshashi535@gmail.com</h4>
+ eshashi535@gmail.com
 
 
