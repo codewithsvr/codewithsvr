@@ -3,7 +3,7 @@
 <h3 align="center">
 First Year CSE Student | Manipal University Jaipur
 </h3>
-<h4 align="centre"> "Code. Learn. Build. Repeat."</h4>
+<h4 align="centre"> "Code. Learn. Build. Repeat"</h4>
 
 <p align="center">
 
@@ -23,22 +23,26 @@ First Year CSE Student | Manipal University Jaipur
 
 ---
 
-### 🌱 Currently Learning
+<p align="centre">
+  ### 🌱 Currently Learning
 
 - ☕ Java  
 - 🧠 Data Structures & Algorithms (DSA)  
 - 🌐 Web Development
+</p>
   
 
 ---
 
-### Connect with me
+<p align="centre">
+  ### Connect with me
 
 <a href="https://www.linkedin.com/in/edurinty-shashivadhan-reddy-59690a368"  target="_blank"><img 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/> </a> 
 <a href="https://instagram.com/_shashi_vadhan_reddy_" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
+</p>
 
 
 ---
