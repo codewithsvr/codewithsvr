@@ -9,8 +9,10 @@ First Year CSE Student | Manipal University Jaipur
 
 ### 🌱 Currently Learning
 
-Web Development
-
+- ☕ Java  
+- 🧠 Data Structures & Algorithms (DSA)  
+- 🌐 Web Development
+  
 ### 📫 Reach me
 
 eshashi535@gmail.com
