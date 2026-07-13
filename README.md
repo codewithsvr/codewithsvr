@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 
 <h3 align="center">
-First Year CSE Student | Manipal University Jaipur
+Second Year CSE Student | Manipal University Jaipur
 </h3>
 <h4 align="center"> "Code. Learn. Build. Repeat"</h4>
 
